@@ -11,8 +11,8 @@ JOINXPATH = "//input[@placeholder='Enter a join code']"
 NAMEXPATH = "//input[@placeholder='Enter your name']"
 STARTXPATH = "//button[@class='primary-button start-game']"
 
-CODE = "7441017"
-NAME = "L ratio"
+CODE = ""
+NAME = ""
 NUMTHREADS = 2
 REQPERTHREAD = 15
 
