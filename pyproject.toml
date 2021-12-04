@@ -7,6 +7,7 @@ authors = ["Asylumekk <<>>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 selenium = "^4.1.0"
+psutil = "^5.8.0"
 
 [tool.poetry.dev-dependencies]
 
